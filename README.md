@@ -1,4 +1,6 @@
 Quora Duplicate Question Detection | End-to-End NLP with Streamlit Deployment
+
+Dataset Link - https://www.kaggle.com/c/quora-question-pairs
 This project is an end-to-end Natural Language Processing (NLP) pipeline designed to detect whether two questions are semantically similar, using the Quora Question Pairs dataset. It features robust text preprocessing, feature extraction, and machine learning classification, with an interactive Streamlit web app for user-friendly input and real-time predictions.
 
 🔧 Key Features:
